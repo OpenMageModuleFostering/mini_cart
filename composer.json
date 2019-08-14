@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/mini_cart",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "Mini Cart Header",
+    "authors": [
+    {
+        "name": "Hire Magento Inc.",
+        "email": "hiremagento@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
